@@ -24,7 +24,7 @@ public class AdminLogin extends JFrame {
 	private JPasswordField passwordField;
 
 	/**
-	 * Launch the application.
+	 * Launch the application.test
 	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
